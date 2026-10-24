@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vite/
+*.local
+*.log
+班车 接驳车 时刻/
+风格参考/
+封面.jpg
